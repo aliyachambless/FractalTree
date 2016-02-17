@@ -14,7 +14,7 @@ public void draw()
 } 
 public void mouseDragged(){
 	branchAngle = mouseX / 800.00;
-	println(branchAngle);
+	//println(branchAngle);
 }
 public void drawBranches(int x,int y, double branchLength, double angle) 
 {   
